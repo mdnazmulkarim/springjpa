@@ -1,5 +1,0 @@
-com\nk\springjpa\model\Citizen.class
-com\nk\springjpa\repository\CitizenRepository.class
-com\nk\springjpa\dao\CitizenDAO.class
-com\nk\springjpa\CitizenApplication.class
-com\nk\springjpa\controller\CitizenController.class
